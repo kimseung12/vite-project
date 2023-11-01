@@ -1,14 +1,15 @@
 :root {
-    --mainEng-font: "Montserrat";
+    --mainEng-font: 'Roboto Slab', serif;
     --mainKor-font: "nanumSquareNeo";
     --mainNum-font: "gmarket";
 
-    --mainBg-color: #ffffff;
+    --mainBg-color: #31c5ff;
+    --mainFont-color: #ffffff;
     --subBg100: #ffffff;
-    --subBg200: #ffffff;
-    --subBg300: #ffffff;
-    --subBg400: #ffffff;
-    --subBg500: #ffffff;
+    --subBg200: #e4e4e4;
+    --subBg300: #c1c1c1;
+    --subBg400: #9b9b9b;
+    --subBg500: #808080;
 
     --white: #ffffff;
     --black: #000000;

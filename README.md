@@ -31,4 +31,7 @@ Vite는 초기 구동 속도가 빠르며, 코드 번들링을 필요할 때만 
 <summary>git 업로드 버그</summary>
 git remote set-url origin https://kimseung12@github.com/kimseung12/vite-project.git
 권한으로 인한 업로그 버그 현상이 생김 > 해결
+git add .<br>
+git commit -m "커밋 메시지"<br>
+git push -u origin main
 </details>

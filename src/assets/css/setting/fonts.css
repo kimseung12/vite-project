@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Hahmlet:wght@100;200&family=Montserrat:wght@100;200;300;400;500;600;700;800&family=Oleo+Script&display=swap');
 @import url("https://websfont.github.io/nanumSquareNeo/nanumSquareNeo.css");
 @import url("https://websfont.github.io/gmarket/gmarket.css");
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700&display=swap');
 
 .mont {
     font-family: "Montserrat";
@@ -12,4 +13,8 @@
 
 .gmarket {
     font-family: "gmarket";
+}
+
+.Roboto {
+    font-family: 'Roboto Slab', serif;
 }
